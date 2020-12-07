@@ -1,0 +1,14 @@
+First time git users set up -- https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+git init( initialize the repo with git )
+git remote add origin <git-url> (this will integrate local repository with remote repo)
+git add . (adds all the files for push)
+git add <filename> (adds specific file)
+git status
+git commit -m "added inde.html and git-commands file"
+git commit -am "added inde.html and git-commands file"
+git push origin master (to push the code to remote repo)
+
+Note: for every new changes repeat the steps from 3 to 6
+
+
