@@ -8,7 +8,8 @@ git status
 git commit -m "added inde.html and git-commands file"
 git commit -am "added inde.html and git-commands file"
 git push origin master (to push the code to remote repo)
-
+git status ( do this before committing)
+(Use feature branch for all changes)
 Note: for every new changes repeat the steps from 3 to 6
 
 
