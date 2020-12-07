@@ -15,7 +15,14 @@ Note: for every new changes repeat the steps from 3 to 6
 Creating a feature branch
 
 git checkout -b feature/<name>
+git add .
+git commit -am "commit message"
+git push origin feature/<name>
 
+move between branches
+git checkout master (switch to master)
+
+git pull origin master
 
 
 
