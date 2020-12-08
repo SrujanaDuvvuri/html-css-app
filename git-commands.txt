@@ -34,4 +34,10 @@ delete the branch
 git branch -D <branch name>
 
 
+GIT HUB details
+-------------------------
+https://github.com/SrujanaDuvvuri/html-css-app
+suji.duvvuri@gmail.com
+SrujanaDuvvuri
+Srujana@12
 
