@@ -1,8 +1,0 @@
-download visual studio code(VSC) and install
-download the extensions Auto Rename Tag, Live server and vscode-icons and install
-download node js and install
-check versions node --version, npm --version
-sign up for git using github url and create a repo
-download git for windows
-git --version
-gitbash or windows power shell can be used to execute commands

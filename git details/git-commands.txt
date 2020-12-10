@@ -1,0 +1,43 @@
+First time git users set up -- https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+initial commands
+--------------------------------------
+git init( initialize the repo with git )
+git remote add origin <git-url> (this will integrate local repository with remote repo)
+git add . (adds all the files for push)
+git add <filename> (adds specific file)
+git status
+git commit -m "added inde.html and git-commands file"
+git commit -am "added inde.html and git-commands file"
+git push origin master (to push the code to remote repo)
+git status ( do this before committing)
+Note: for every new changes repeat the steps from 3 to 6
+(Use feature branch for all changes)
+
+Creating a feature branch
+--------------------------------
+git checkout -b feature/<name>
+git add .
+git commit -am "commit message"
+git push origin feature/<name>
+
+move between branches
+--------------------------
+git checkout master (switch to master)
+
+pull request
+-------------------
+git pull origin master
+
+delete the branch
+---------------------------
+git branch -D <branch name>
+
+
+GIT HUB details
+-------------------------
+https://github.com/SrujanaDuvvuri/html-css-app
+suji.duvvuri@gmail.com
+SrujanaDuvvuri
+Srujana@12
+
